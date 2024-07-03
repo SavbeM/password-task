@@ -1,0 +1,27 @@
+.main {
+  background-color: #252525;
+  width: auto;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+  color: #F7F7F7;
+  font-size: 2em;
+}
+
+.header-title{
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 2em;
+  background: linear-gradient(to right bottom, #6C63FF, #F7F7F7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
